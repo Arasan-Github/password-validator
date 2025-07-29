@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h2{
+    margin-bottom: 10px;
+}
+.password-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+
+
